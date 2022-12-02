@@ -129,4 +129,4 @@ resource "aws_security_group" "test_public_sg" {
     Name = "test_public_sg"
   }
 }
-© 2018 GitHub, Inc.
+# © 2018 GitHub, Inc.
